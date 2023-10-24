@@ -1,0 +1,17 @@
+.card-filme{
+    display: inline-block;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+}
+
+.card-filme > img{
+    display: inline-block;
+ 
+}
+
+.card-filme > .filme-info{
+  float: right;
+  margin-top: 140px;
+  padding: 5px;
+}
